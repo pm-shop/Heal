@@ -1,0 +1,10 @@
+name: Heal
+version: 1.0
+api: 3.15.1
+main: heal\Main
+author: Pralexkid
+
+commands:
+  heal:
+    description: "Régéne les pv d'autruis !"
+    permission: heal.op
