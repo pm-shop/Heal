@@ -1,6 +1,6 @@
 <?php
 
-namespace healpm;
+namespace heal;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
