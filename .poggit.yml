@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/pm-shop/Heal
+build-by-default: true
+branches:
+- main
+projects:
+  Heal:
+    path: ""
+...
